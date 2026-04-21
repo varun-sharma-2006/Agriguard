@@ -9,7 +9,7 @@
 
 ## 🎯 Problem Statement
 
-Crop diseases cause 20-40% yield losses globally. Traditional detection methods rely on visual inspection after symptoms appear, making treatment less effective. AgriGuard provides **2-3 weeks early warning** using AI analysis of satellite and the weather data.
+Crop diseases cause 20-40% yield losses globally. Traditional detection methods rely on visual inspection after symptoms appear, making treatment less effective. AgriGuard provides **2-3 weeks early warning** using AI analysis of satellite and weather data.
 
 ## Key Achievements
 
